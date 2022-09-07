@@ -29,13 +29,13 @@ body {
 }
 .body-right {
 	text-align: center;
-	width: 100px;
+	width: 250px;
 }
 .postcard-footer {
 	text-align: center;
 }
 button {
-	background-color: white;
+	background-color: grey;
 
 	padding: none;
 }
